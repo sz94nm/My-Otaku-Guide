@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#212121</color>
+    <color name="colorAccent">#FF7043</color>
+    <color name="animeColor">#F5F5F5</color>
+    <color name="mangaColor">#F5F5F5</color>
+    <color name="characterColor">#F5F5F5</color>
+</resources>
